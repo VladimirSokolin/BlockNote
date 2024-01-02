@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Наш блокнот</string>
+    <string name="new_note">Новая Заметка</string>
+</resources>
